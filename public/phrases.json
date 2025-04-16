@@ -1,0 +1,821 @@
+[
+  {
+    "id": "0055459b-8994-4b4c-83e1-adcdb0bd210f",
+    "text": "a breeze that remembers your name",
+    "emoji": "🔮",
+    "vibe": "chaotic",
+    "rarity": "rare"
+  },
+  {
+    "id": "cc7baf35-9903-4f65-9302-e7e3367bddf9",
+    "text": "a cloud watching your back",
+    "emoji": "🌪️",
+    "vibe": "chaotic",
+    "rarity": "rare"
+  },
+  {
+    "id": "3e30715d-ba55-4713-b1f4-2bf101788578",
+    "text": "a warm mug on a rainy morning",
+    "emoji": "🐢",
+    "vibe": "cozy",
+    "rarity": "common"
+  },
+  {
+    "id": "c2764823-d31f-4073-abe4-32a54a051616",
+    "text": "a leaf floating on purpose",
+    "emoji": "🔮",
+    "vibe": "chaotic",
+    "rarity": "common"
+  },
+  {
+    "id": "c7753e22-4c1d-4b3c-b416-265ba7e3b7f6",
+    "text": "a missed train that saved your day",
+    "emoji": "📦",
+    "vibe": "cozy",
+    "rarity": "rare"
+  },
+  {
+    "id": "7fce4ecc-f552-47f3-99f3-e85ed2a9dcbe",
+    "text": "the moon's favorite secret",
+    "emoji": "🛸",
+    "vibe": "weird",
+    "rarity": "common"
+  },
+  {
+    "id": "8332685b-464e-441c-8c89-78abedebd762",
+    "text": "a laugh waiting to happen",
+    "emoji": "🧃",
+    "vibe": "cozy",
+    "rarity": "common"
+  },
+  {
+    "id": "409af0b7-4353-4c12-bba7-597ef3100757",
+    "text": "the first page of a new chapter",
+    "emoji": "🎯",
+    "vibe": "chaotic",
+    "rarity": "rare"
+  },
+  {
+    "id": "28736304-dd5e-453c-a2c7-87af42bfc603",
+    "text": "a hug without arms",
+    "emoji": "🧙‍♂️",
+    "vibe": "existential",
+    "rarity": "common"
+  },
+  {
+    "id": "f73b1f31-7ee9-4e8e-932f-90858e14b5a2",
+    "text": "the echo of someone rooting for you",
+    "emoji": "📡",
+    "vibe": "weird",
+    "rarity": "common"
+  },
+  {
+    "id": "56c444a8-73ef-4304-8a72-c93665b53ee4",
+    "text": "a sunrise just for your eyes",
+    "emoji": "🌈",
+    "vibe": "weird",
+    "rarity": "common"
+  },
+  {
+    "id": "dd5ccf07-9668-4852-8ce5-e8d3d3730d55",
+    "text": "the playlist you didn’t know you needed",
+    "emoji": "🔮",
+    "vibe": "existential",
+    "rarity": "rare"
+  },
+  {
+    "id": "f8cb67bc-e4fc-4e6c-b23c-89f9ada6bb36",
+    "text": "a gentle pause in the noise",
+    "emoji": "🐛",
+    "vibe": "calm",
+    "rarity": "common"
+  },
+  {
+    "id": "cfaeb8ad-8d96-40b9-b2b1-bed834f398c5",
+    "text": "a coin flip that landed on magic",
+    "emoji": "📡",
+    "vibe": "cozy",
+    "rarity": "rare"
+  },
+  {
+    "id": "cecfef43-ebcc-405d-a01a-159591dfe097",
+    "text": "the reason someone smiled today",
+    "emoji": "🌀",
+    "vibe": "weird",
+    "rarity": "common"
+  },
+  {
+    "id": "a65891f7-8049-48f1-8717-14e6a1865831",
+    "text": "a stargazer with open palms",
+    "emoji": "🧃",
+    "vibe": "weird",
+    "rarity": "rare"
+  },
+  {
+    "id": "d32e162d-d15f-4124-b139-dfbe5d7c9fd4",
+    "text": "a window cracked open to possibility",
+    "emoji": "📦",
+    "vibe": "existential",
+    "rarity": "legendary"
+  },
+  {
+    "id": "6335cd33-5cce-48e2-9ebb-c5f61e5ba47c",
+    "text": "a question without pressure",
+    "emoji": "📦",
+    "vibe": "cozy",
+    "rarity": "legendary"
+  },
+  {
+    "id": "c9b2bb9f-cb93-4f51-8a0c-15318903ea45",
+    "text": "a soft ‘yes’ from the universe",
+    "emoji": "🌪️",
+    "vibe": "calm",
+    "rarity": "rare"
+  },
+  {
+    "id": "f3859a8f-4a1c-4dc7-9309-445e26560221",
+    "text": "a perfectly ripe moment",
+    "emoji": "🌌",
+    "vibe": "chaotic",
+    "rarity": "common"
+  },
+  {
+    "id": "87309976-6676-474a-b66d-fe33d9d2efd4",
+    "text": "the smell of something nostalgic",
+    "emoji": "🌈",
+    "vibe": "calm",
+    "rarity": "rare"
+  },
+  {
+    "id": "e3dce310-31ea-4928-9092-658dbd1ec5db",
+    "text": "a memory that holds your hand",
+    "emoji": "🌌",
+    "vibe": "cozy",
+    "rarity": "legendary"
+  },
+  {
+    "id": "3bc70954-8742-4ab9-9521-cb34b92692ee",
+    "text": "a cup of calm in chaos",
+    "emoji": "🍕",
+    "vibe": "weird",
+    "rarity": "common"
+  },
+  {
+    "id": "e1819283-c162-4a2b-b027-ee7b64aae46c",
+    "text": "a sentence that finally made sense",
+    "emoji": "💡",
+    "vibe": "calm",
+    "rarity": "rare"
+  },
+  {
+    "id": "9091fae1-a77e-443d-8058-dd4585d6db8a",
+    "text": "a rhythm you didn’t know you danced to",
+    "emoji": "🧠",
+    "vibe": "weird",
+    "rarity": "common"
+  },
+  {
+    "id": "2dfde805-c2b8-4ebe-96f2-bc95fb004f3f",
+    "text": "the calm between two deep breaths",
+    "emoji": "🍕",
+    "vibe": "chaotic",
+    "rarity": "rare"
+  },
+  {
+    "id": "e1a78c73-6246-4fad-a3ea-289676245906",
+    "text": "a firefly moment in the dark",
+    "emoji": "☕",
+    "vibe": "cozy",
+    "rarity": "rare"
+  },
+  {
+    "id": "b07461c2-57be-4f89-b4b2-2a4c88dad7ab",
+    "text": "the cozy corner of a loud room",
+    "emoji": "🔥",
+    "vibe": "cozy",
+    "rarity": "rare"
+  },
+  {
+    "id": "ee844d31-bd81-4911-a973-62b474b00495",
+    "text": "the right socks on the wrong day",
+    "emoji": "🐛",
+    "vibe": "weird",
+    "rarity": "common"
+  },
+  {
+    "id": "6e225939-5bcf-4e57-b12e-3b667cc71df6",
+    "text": "the silence after someone understands",
+    "emoji": "🧙‍♂️",
+    "vibe": "weird",
+    "rarity": "common"
+  },
+  {
+    "id": "95fda76e-4654-4072-aafc-7a2ae61d2b78",
+    "text": "a stretch after sitting too long",
+    "emoji": "🎯",
+    "vibe": "chaotic",
+    "rarity": "rare"
+  },
+  {
+    "id": "74c1ca76-67b8-4e1b-bef5-01c9b187d48f",
+    "text": "a held door and a smile",
+    "emoji": "🌪️",
+    "vibe": "chaotic",
+    "rarity": "common"
+  },
+  {
+    "id": "e238babc-24c9-4cba-94aa-dcc96c605fea",
+    "text": "a map with no pressure to follow",
+    "emoji": "🛸",
+    "vibe": "cozy",
+    "rarity": "legendary"
+  },
+  {
+    "id": "8764dabf-8e21-4299-ba88-a52f40cdc54c",
+    "text": "a tiny rebellion of rest",
+    "emoji": "📦",
+    "vibe": "weird",
+    "rarity": "rare"
+  },
+  {
+    "id": "426285ee-ad0f-4e6e-82b2-d5e4ebc75ffd",
+    "text": "a nap well deserved",
+    "emoji": "☕",
+    "vibe": "calm",
+    "rarity": "common"
+  },
+  {
+    "id": "706b2416-2920-4e1b-b6e5-7f11107859a0",
+    "text": "a second wind at the right time",
+    "emoji": "🛸",
+    "vibe": "calm",
+    "rarity": "legendary"
+  },
+  {
+    "id": "48fcd7d8-15b3-4b35-b4f2-74351753348d",
+    "text": "a compliment that lingers",
+    "emoji": "🌀",
+    "vibe": "chaotic",
+    "rarity": "rare"
+  },
+  {
+    "id": "e3df79e7-1626-4779-9268-87b85c27fd01",
+    "text": "an old photo with new meaning",
+    "emoji": "📡",
+    "vibe": "chaotic",
+    "rarity": "common"
+  },
+  {
+    "id": "f1c664cc-8d4a-4ffe-81fe-5c1bc5103b69",
+    "text": "a breeze that made you pause",
+    "emoji": "🍕",
+    "vibe": "calm",
+    "rarity": "common"
+  },
+  {
+    "id": "3229d751-2a91-4547-b5d8-950bb20e6fc7",
+    "text": "the long way home, on purpose",
+    "emoji": "🧙‍♂️",
+    "vibe": "cozy",
+    "rarity": "common"
+  },
+  {
+    "id": "748d029c-e1d8-43f3-88fd-f059ee499be5",
+    "text": "an untouched notebook",
+    "emoji": "🎧",
+    "vibe": "chaotic",
+    "rarity": "common"
+  },
+  {
+    "id": "c06dfcb6-f408-44fd-8011-47e912719a6f",
+    "text": "the smell of fresh laundry",
+    "emoji": "🧠",
+    "vibe": "weird",
+    "rarity": "rare"
+  },
+  {
+    "id": "2f696c9a-f6d0-4a16-a975-4630383f0d1d",
+    "text": "a kindness remembered",
+    "emoji": "🔥",
+    "vibe": "existential",
+    "rarity": "common"
+  },
+  {
+    "id": "092622b2-a3d8-4b2e-b357-8e9a1f08b2b4",
+    "text": "a note passed in class energy",
+    "emoji": "🔮",
+    "vibe": "cozy",
+    "rarity": "rare"
+  },
+  {
+    "id": "dd33631e-c950-4b39-b0f0-b81367b7f2d9",
+    "text": "a good cry that cleared something",
+    "emoji": "🐛",
+    "vibe": "existential",
+    "rarity": "common"
+  },
+  {
+    "id": "d8839b21-bb3b-42d7-9177-9c597502061b",
+    "text": "a dance break in the kitchen",
+    "emoji": "📦",
+    "vibe": "cozy",
+    "rarity": "rare"
+  },
+  {
+    "id": "21128c72-9372-440b-9ee3-308a75b68ac3",
+    "text": "the perfect bite of something hot",
+    "emoji": "🐢",
+    "vibe": "weird",
+    "rarity": "common"
+  },
+  {
+    "id": "b8d2a0ad-9bb9-493a-89dd-5e0e51e74ddc",
+    "text": "the first sip after thirst",
+    "emoji": "🐛",
+    "vibe": "existential",
+    "rarity": "rare"
+  },
+  {
+    "id": "d177268c-b21b-4c1e-a34d-e8d4a3216a87",
+    "text": "a blink that changed your mind",
+    "emoji": "🛸",
+    "vibe": "existential",
+    "rarity": "rare"
+  },
+  {
+    "id": "429e3387-8883-41b1-afc5-87ef6c59a61d",
+    "text": "a book you keep meaning to finish",
+    "emoji": "🧠",
+    "vibe": "weird",
+    "rarity": "legendary"
+  },
+  {
+    "id": "0c39dc13-45d2-42c2-be84-134e5ab84988",
+    "text": "a candle lit for no reason",
+    "emoji": "🧃",
+    "vibe": "calm",
+    "rarity": "rare"
+  },
+  {
+    "id": "4433f4ed-3994-4371-abe1-5d80b09022a2",
+    "text": "an accidental matching outfit",
+    "emoji": "🐛",
+    "vibe": "chaotic",
+    "rarity": "legendary"
+  },
+  {
+    "id": "fdcf181b-0e98-4d34-8252-01477497fac4",
+    "text": "a wildflower growing from concrete",
+    "emoji": "🌪️",
+    "vibe": "weird",
+    "rarity": "rare"
+  },
+  {
+    "id": "05d28db5-3629-4919-b406-06a27353d355",
+    "text": "a shadow that makes a cool shape",
+    "emoji": "📡",
+    "vibe": "chaotic",
+    "rarity": "legendary"
+  },
+  {
+    "id": "3f74c5f0-88e0-4e3b-b501-714d6751707b",
+    "text": "a stranger that felt familiar",
+    "emoji": "🧃",
+    "vibe": "weird",
+    "rarity": "rare"
+  },
+  {
+    "id": "c43ed67b-a6aa-4315-bfc9-e594a6f049d7",
+    "text": "the sound of your own name with love",
+    "emoji": "🛸",
+    "vibe": "weird",
+    "rarity": "rare"
+  },
+  {
+    "id": "75e2b8a6-f0b4-403f-a9d5-d2c2dd6ff4e1",
+    "text": "a light turned on with your arrival",
+    "emoji": "☕",
+    "vibe": "existential",
+    "rarity": "common"
+  },
+  {
+    "id": "fb6d9bb1-f29e-4e22-9ae6-c6c32380be2c",
+    "text": "a message seen at the perfect time",
+    "emoji": "🧠",
+    "vibe": "calm",
+    "rarity": "rare"
+  },
+  {
+    "id": "eaa2fd3f-9078-4457-8679-57e5ceb0e2c1",
+    "text": "the feeling of socks on cold feet",
+    "emoji": "🧙‍♂️",
+    "vibe": "calm",
+    "rarity": "common"
+  },
+  {
+    "id": "ff92e598-f561-4142-a6bd-c0db3ee7d1b2",
+    "text": "a moment you didn’t post",
+    "emoji": "🧠",
+    "vibe": "calm",
+    "rarity": "rare"
+  },
+  {
+    "id": "419eea37-e9b4-482e-962f-48be54ca80fd",
+    "text": "a place that still smells like you",
+    "emoji": "🌌",
+    "vibe": "weird",
+    "rarity": "common"
+  },
+  {
+    "id": "26d13b78-929d-4c27-a082-7d908eac80c7",
+    "text": "a drawer of birthday cards",
+    "emoji": "📡",
+    "vibe": "cozy",
+    "rarity": "legendary"
+  },
+  {
+    "id": "a2c486a0-a7ec-4c0b-b31d-734c2c9fc9fb",
+    "text": "an old playlist that still hits",
+    "emoji": "🌀",
+    "vibe": "chaotic",
+    "rarity": "common"
+  },
+  {
+    "id": "796117e1-fb3d-4210-b08a-23f32c1b6173",
+    "text": "the quiet after closing a tab",
+    "emoji": "🌈",
+    "vibe": "cozy",
+    "rarity": "common"
+  },
+  {
+    "id": "2e1d4758-a855-4ff4-94e1-55742665a4c7",
+    "text": "a sweatshirt two sizes too big",
+    "emoji": "🌪️",
+    "vibe": "existential",
+    "rarity": "common"
+  },
+  {
+    "id": "d04ada46-fca3-44eb-a8b8-aa475628a1ac",
+    "text": "a kitchen dance party",
+    "emoji": "📡",
+    "vibe": "chaotic",
+    "rarity": "rare"
+  },
+  {
+    "id": "90e8f1da-c8fa-4b0e-890b-02047bb98446",
+    "text": "a friend who gets it with no words",
+    "emoji": "🧃",
+    "vibe": "chaotic",
+    "rarity": "rare"
+  },
+  {
+    "id": "73bb5286-2632-477e-a618-75337ca878bd",
+    "text": "the sparkle in someone’s eye when they talk about you",
+    "emoji": "🎯",
+    "vibe": "weird",
+    "rarity": "common"
+  },
+  {
+    "id": "33db41b2-bb80-43e9-bed3-02b25f50f0b0",
+    "text": "a hug that fixed a day",
+    "emoji": "🐢",
+    "vibe": "cozy",
+    "rarity": "common"
+  },
+  {
+    "id": "47b1e440-ac63-4df1-9bcd-264e70bc3123",
+    "text": "the perfect breeze through a window",
+    "emoji": "🌌",
+    "vibe": "chaotic",
+    "rarity": "common"
+  },
+  {
+    "id": "df0c6466-28dd-4882-a3e0-f6966a21308a",
+    "text": "the joy of taking shoes off",
+    "emoji": "✨",
+    "vibe": "weird",
+    "rarity": "common"
+  },
+  {
+    "id": "df4ddab8-238d-4ea1-a083-8536bfc984db",
+    "text": "a found coin with luck still in it",
+    "emoji": "🐢",
+    "vibe": "chaotic",
+    "rarity": "common"
+  },
+  {
+    "id": "e8786351-945e-41c6-9348-75473e5dbc67",
+    "text": "a dog looking out a car window",
+    "emoji": "🐢",
+    "vibe": "existential",
+    "rarity": "common"
+  },
+  {
+    "id": "1d518125-152f-42a7-a453-0cad31eead2e",
+    "text": "a child’s serious explanation",
+    "emoji": "🌌",
+    "vibe": "calm",
+    "rarity": "common"
+  },
+  {
+    "id": "01632608-0b7e-4a21-b65a-cca03ebb0416",
+    "text": "a compliment from someone who means it",
+    "emoji": "🍕",
+    "vibe": "existential",
+    "rarity": "rare"
+  },
+  {
+    "id": "e390e55d-a804-44ff-bfcf-22e23c5a6301",
+    "text": "a walk where no one needed to talk",
+    "emoji": "🌀",
+    "vibe": "weird",
+    "rarity": "common"
+  },
+  {
+    "id": "c6a3f03f-0f01-474d-ba53-a5d38a17bfb0",
+    "text": "a silence that wasn’t awkward",
+    "emoji": "🔮",
+    "vibe": "chaotic",
+    "rarity": "rare"
+  },
+  {
+    "id": "9beb0df7-82f1-45ad-be19-4fefb99b7a4e",
+    "text": "the smell of popcorn in the air",
+    "emoji": "🔥",
+    "vibe": "cozy",
+    "rarity": "rare"
+  },
+  {
+    "id": "b1d04c52-483f-441e-af69-0c964fdb1d98",
+    "text": "a vending machine miracle",
+    "emoji": "🎧",
+    "vibe": "cozy",
+    "rarity": "common"
+  },
+  {
+    "id": "8d5440ae-d1e8-47d3-a674-c0a7ac23a5b2",
+    "text": "the look before a kiss",
+    "emoji": "🧃",
+    "vibe": "cozy",
+    "rarity": "legendary"
+  },
+  {
+    "id": "f6cc323c-eb78-4a00-9193-afaf1b8bf38e",
+    "text": "the pause before applause",
+    "emoji": "🌈",
+    "vibe": "chaotic",
+    "rarity": "legendary"
+  },
+  {
+    "id": "12f1c9e2-2e71-485b-93b9-021ca5737e3b",
+    "text": "the last light turned off together",
+    "emoji": "🐛",
+    "vibe": "calm",
+    "rarity": "legendary"
+  },
+  {
+    "id": "6929f43a-f4dc-484c-ab05-c92cb4df9276",
+    "text": "a shared umbrella",
+    "emoji": "✨",
+    "vibe": "existential",
+    "rarity": "common"
+  },
+  {
+    "id": "abcffec7-eb47-4c48-82ad-ff4b46f1d1e2",
+    "text": "an eye-roll that meant 'I love you'",
+    "emoji": "📦",
+    "vibe": "weird",
+    "rarity": "rare"
+  },
+  {
+    "id": "0b1b37b6-4a8b-40b9-835a-cb751bef20a0",
+    "text": "an open window with music drifting",
+    "emoji": "☕",
+    "vibe": "chaotic",
+    "rarity": "rare"
+  },
+  {
+    "id": "6aff8af8-5af8-4611-86da-cd7fac4b73e1",
+    "text": "a road trip with no GPS",
+    "emoji": "🔮",
+    "vibe": "calm",
+    "rarity": "rare"
+  },
+  {
+    "id": "04dab384-0efd-483f-ab91-9111f89d4b51",
+    "text": "a laugh that hurt your stomach",
+    "emoji": "🧙‍♂️",
+    "vibe": "calm",
+    "rarity": "common"
+  },
+  {
+    "id": "82b9bdf0-78c2-430e-81a0-98ed91d3e32b",
+    "text": "a secret kept just right",
+    "emoji": "🧙‍♂️",
+    "vibe": "chaotic",
+    "rarity": "rare"
+  },
+  {
+    "id": "4b9538e1-07ff-4295-b289-879a21248de8",
+    "text": "a postcard from someone’s memory",
+    "emoji": "🐛",
+    "vibe": "chaotic",
+    "rarity": "common"
+  },
+  {
+    "id": "0eefea10-0559-44a6-997d-8ffc26d72372",
+    "text": "a hand squeeze under the table",
+    "emoji": "🎧",
+    "vibe": "cozy",
+    "rarity": "common"
+  },
+  {
+    "id": "c20ee41e-095a-4536-8ce8-a71b123fc838",
+    "text": "a perfect stretch",
+    "emoji": "🌀",
+    "vibe": "calm",
+    "rarity": "common"
+  },
+  {
+    "id": "17f3e1e3-8cab-414b-bb0f-bfa2befc0ba0",
+    "text": "a crack in the sidewalk you avoid on instinct",
+    "emoji": "💡",
+    "vibe": "chaotic",
+    "rarity": "rare"
+  },
+  {
+    "id": "f2123a35-3bab-4d0c-885c-a38ec8665b59",
+    "text": "a scar you tell stories about",
+    "emoji": "🌈",
+    "vibe": "cozy",
+    "rarity": "common"
+  },
+  {
+    "id": "81f23eb3-c50f-4b6c-8ad8-bf2d07c26646",
+    "text": "a name someone remembers",
+    "emoji": "🧃",
+    "vibe": "weird",
+    "rarity": "common"
+  },
+  {
+    "id": "f8a278cf-ae56-4d27-a5a1-fd776f9bd52b",
+    "text": "the last piece offered to you",
+    "emoji": "📦",
+    "vibe": "calm",
+    "rarity": "rare"
+  },
+  {
+    "id": "23e0acab-1964-4fcc-a4f0-5bbc3d2bd82c",
+    "text": "a toast in your honor",
+    "emoji": "💡",
+    "vibe": "calm",
+    "rarity": "legendary"
+  },
+  {
+    "id": "7dd8615b-6189-4b8f-b572-64d5d1c1af1c",
+    "text": "a breeze carrying someone's perfume",
+    "emoji": "🧠",
+    "vibe": "weird",
+    "rarity": "legendary"
+  },
+  {
+    "id": "f411f2eb-3c40-473f-aba2-93a8924bf0a9",
+    "text": "a sweater with stories in its fibers",
+    "emoji": "🧃",
+    "vibe": "existential",
+    "rarity": "common"
+  },
+  {
+    "id": "4cb7db3b-afe9-4f19-8097-3b4e026ad161",
+    "text": "a candle flicker that felt alive",
+    "emoji": "💡",
+    "vibe": "cozy",
+    "rarity": "rare"
+  },
+  {
+    "id": "243ed813-dd43-45e8-8b75-95bec847d3ff",
+    "text": "a stranger's kindness you never forgot",
+    "emoji": "🐛",
+    "vibe": "weird",
+    "rarity": "common"
+  },
+  {
+    "id": "8ad061be-745a-45cd-b0da-fdd28d2bbfbb",
+    "text": "a path you chose with no reason",
+    "emoji": "☕",
+    "vibe": "cozy",
+    "rarity": "common"
+  },
+  {
+    "id": "b22f5c73-0185-46fa-9f11-f460fe727d54",
+    "text": "a moment that didn't need a photo",
+    "emoji": "🌌",
+    "vibe": "existential",
+    "rarity": "legendary"
+  },
+  {
+    "id": "8010f10f-4d13-43dc-9d7c-c834a846ae6f",
+    "text": "the right words at the right time",
+    "emoji": "💡",
+    "vibe": "calm",
+    "rarity": "legendary"
+  },
+  {
+    "id": "b2bb5a42-f108-406f-9a33-06df1679c170",
+    "text": "a bird that landed near you like it knew",
+    "emoji": "🌈",
+    "vibe": "chaotic",
+    "rarity": "rare"
+  },
+  {
+    "id": "b9f87922-4647-460e-8b9a-dd6d13fe3b4c",
+    "text": "a note in a book you didn't write",
+    "emoji": "🌪️",
+    "vibe": "existential",
+    "rarity": "common"
+  },
+  {
+    "id": "92ebfc07-5334-480b-84a4-32eab82bb66e",
+    "text": "a sunset you didn’t expect",
+    "emoji": "🍕",
+    "vibe": "weird",
+    "rarity": "common"
+  },
+  {
+    "id": "4243fc2f-29cd-4a33-a392-d893d69af9d9",
+    "text": "a gaze across a room that changed things",
+    "emoji": "🧙‍♂️",
+    "vibe": "existential",
+    "rarity": "common"
+  },
+  {
+    "id": "9721c4e4-3d63-4c32-812d-17ed3ba88a1b",
+    "text": "a seat saved for you without asking",
+    "emoji": "🔮",
+    "vibe": "cozy",
+    "rarity": "common"
+  },
+  {
+    "id": "81e2402f-3f93-4b03-9a24-44c1c8bcadfc",
+    "text": "a lucky guess",
+    "emoji": "🌌",
+    "vibe": "weird",
+    "rarity": "rare"
+  },
+  {
+    "id": "ff6905aa-b75b-4932-9d32-edad412d9f45",
+    "text": "a dream you can still feel",
+    "emoji": "🌌",
+    "vibe": "calm",
+    "rarity": "rare"
+  },
+  {
+    "id": "4e85d1f0-aa85-460f-85ff-41bf50884a3c",
+    "text": "a rain that washed away more than dust",
+    "emoji": "📡",
+    "vibe": "cozy",
+    "rarity": "rare"
+  },
+  {
+    "id": "5266940a-3f4b-4900-a4f3-2d7318048ca5",
+    "text": "a song that healed something",
+    "emoji": "🌪️",
+    "vibe": "calm",
+    "rarity": "common"
+  },
+  {
+    "id": "e5f605dd-5690-4374-96b5-4de9a970eaa7",
+    "text": "a breeze that turned your head",
+    "emoji": "🌈",
+    "vibe": "cozy",
+    "rarity": "common"
+  },
+  {
+    "id": "3b8d0461-5916-43b5-b4cb-fd5190b75ee4",
+    "text": "a color that changed everything",
+    "emoji": "🔮",
+    "vibe": "chaotic",
+    "rarity": "legendary"
+  },
+  {
+    "id": "49f6ffc1-43e7-4186-b8a7-74da20094368",
+    "text": "a whisper of yes when you needed it",
+    "emoji": "🍕",
+    "vibe": "existential",
+    "rarity": "common"
+  },
+  {
+    "id": "90a688b1-a04f-415c-b5be-34b7ee050b72",
+    "text": "a random act that changed your mood",
+    "emoji": "🌪️",
+    "vibe": "weird",
+    "rarity": "common"
+  },
+  {
+    "id": "2d4232b2-c940-4cf4-871d-2c99aa6ccea0",
+    "text": "a delicious something after a hard nothing",
+    "emoji": "💡",
+    "vibe": "chaotic",
+    "rarity": "common"
+  }
+]
