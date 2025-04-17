@@ -1,8 +1,8 @@
 "use client";
 
 import { motion, AnimatePresence } from "framer-motion";
-import Image from "next/image";
 import { usePhraseStore } from "../phrase-provider";
+import { GameCard } from "../game-card";
 
 const cardVariants = {
   initial: (i: number) => ({
@@ -45,16 +45,15 @@ export function CardGrid() {
             whileHover="hover"
             exit={{ opacity: 0 }}
             variants={cardVariants}
-            className="rounded-xl flex items-center justify-center text-5xl text-white cursor-pointer border border-white/10 shadow-md transition-shadow hover:shadow-[0_0_24px_3px_rgba(147,51,234,0.5)]"
+            className="cursor-pointer"
             onClick={() => handleClick(i)}
           >
-            <Image
-              src="/card-back.png"
-              alt="Card back"
-              width={200}
-              height={300}
-              className="w-full h-full object-cover rounded-xl"
-              priority
+            {/* Game Card - Always showing BACK in selection grid */}
+            <GameCard
+              emoji={phrase.emoji}
+              text={phrase.text}
+              rarity={phrase.rarity}
+              forceBack // new prop, always show back side in CardGrid
             />
           </motion.div>
         ))}
