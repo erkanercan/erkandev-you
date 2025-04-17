@@ -1,36 +1,123 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# you.erkan.dev – Who Are You Today?
 
-## Getting Started
+🌟 Discover your daily magical identity by selecting a mysterious fantasy card!  
+Flip. Reveal. Explore your inner self.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## ✨ Features
+
+- 💎 Dynamic fantasy card generation
+- 🔣 Smooth 3D flip animations
+- 📺 Responsive and mobile-first design
+- 🔍 Animated magic glow based on card rarity:
+  - Common / Rare / Legendary
+- 🌟 Copy your identity phrase easily
+- ♻ Shuffle & Try Again as much as you want
+- 📊 Light analytics with PostHog
+- 💜 Fantasy-themed design, inspired by tarot cards
+
+---
+
+## 🚀 Live Demo
+
+👉 [https://you.erkan.dev](https://you.erkan.dev)
+
+---
+
+## 🛠 Tech Stack
+
+- **Framework:** Next.js 15 (App Router)
+- **Styling:** Tailwind CSS, shadcn/ui
+- **Animations:** Framer Motion
+- **State Management:** Zustand
+- **QR Code (planned future add-on)**: TBD
+- **Analytics:** PostHog
+- **Hosting:** Vercel
+
+---
+
+## 📁 Setup Instructions
+
+1. **Clone the repo**
+
+   ```bash
+   git clone https://github.com/erkanercan/erkandev-you.git
+   cd erkandev-you
+   ```
+
+2. **Install dependencies** (uses `npm`)
+
+   ```bash
+   npm install
+   ```
+
+3. **Run locally**
+
+   ```bash
+   npm run dev
+   ```
+
+4. **Build**
+   ```bash
+   npm run build && npm start
+   ```
+
+---
+
+## 🔐 Environment Variables
+
+> Create a `.env.local` file:
+
+```env
+NEXT_PUBLIC_POSTHOG_KEY=your_public_posthog_key
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📈 PostHog Events Tracked
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Event Name              | Description                       |
+| ----------------------- | --------------------------------- |
+| `game_started`          | When user starts the game         |
+| `card_selected`         | When a user clicks a card         |
+| `card_flipped`          | When a card is flipped            |
+| `card_opened_legendary` | When user reveals Legendary card  |
+| `card_opened_rare`      | When user reveals Rare card       |
+| `card_copied`           | When user copies their identity   |
+| `card_retry`            | When user resets to shuffle again |
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🌌 Favicon & SEO
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Favicon generated using [realfavicongenerator.net](https://realfavicongenerator.net/)
+- SEO metadata configured via `layout.tsx`
+- OpenGraph and Twitter Card meta ready
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📅 Future Improvements
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- ✨ Unlock special Legendary animations
+- 💫 Particle effects on Legendary reveals
+- 🔗 Share your result on social media
+- 🔐 Unlock achievements after multiple flips
+- 🛋‍♀️ Mobile PWA support
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 💃 Acknowledgements
+
+- [Next.js](https://nextjs.org/)
+- [Framer Motion](https://framer.com/motion)
+- [Zustand](https://zustand-demo.pmnd.rs/)
+- [shadcn/ui](https://ui.shadcn.com/)
+- [PostHog](https://posthog.com)
+
+---
+
+## 💊 License
+
+This project is for personal and educational use.  
+Feel free to explore, flip cards, and find your magic!
