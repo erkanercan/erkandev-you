@@ -5,6 +5,7 @@ import { Button } from "@/components/ui/button";
 import { toast } from "sonner";
 import { usePhraseStore } from "../phrase-provider";
 import { GameCard } from "../game-card";
+import posthog from "posthog-js";
 
 export function RevealView() {
   const { phrases, selectedCardIndex, resetGame } = usePhraseStore(
@@ -18,9 +19,14 @@ export function RevealView() {
   const handleCopy = () => {
     navigator.clipboard.writeText(`Today I am: ${phrase.text}`);
     toast.success("Copied to clipboard!");
+    posthog.capture("card_copied", {
+      emoji: phrase.emoji,
+      text: phrase.text,
+    });
   };
 
   const handleReset = () => {
+    posthog.capture("card_retry");
     resetGame();
   };
 

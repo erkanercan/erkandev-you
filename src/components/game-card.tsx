@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
+import posthog from "posthog-js";
 
 type CardProps = {
   emoji: string;
@@ -26,6 +27,11 @@ export function GameCard({
       onClick={() => {
         if (!flipped) return;
         if (!forceBack) setFlipped(!flipped);
+        posthog.capture("card_flipped", {
+          rarity: rarity,
+          emoji: emoji,
+          text: text,
+        });
       }}
       className="relative w-64 h-[400px] cursor-pointer perspective select-none"
     >

@@ -3,6 +3,7 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { usePhraseStore } from "../phrase-provider";
 import { GameCard } from "../game-card";
+import posthog from "posthog-js";
 
 const cardVariants = {
   initial: (i: number) => ({
@@ -29,6 +30,7 @@ export function CardGrid() {
   );
 
   const handleClick = (index: number) => {
+    posthog.capture("card_selected", { index });
     setSelectedCardIndex(index);
     setMode("reveal");
   };

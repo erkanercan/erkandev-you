@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import { usePhraseStore } from "../phrase-provider";
+import posthog from "posthog-js";
 
 export function StartScreen() {
   const { setMode } = usePhraseStore((state) => state);
@@ -39,7 +40,10 @@ export function StartScreen() {
       >
         <Button
           size="lg"
-          onClick={() => setMode("choose")}
+          onClick={() => {
+            posthog.capture("game_started");
+            setMode("choose");
+          }}
           className="text-lg px-8 py-6 shadow-md hover:scale-105 transition-transform cursor-pointer bg-gradient-to-r from-purple-400 to-pink-500 text-white font-semibold rounded-lg"
         >
           Reveal my cards ✨
