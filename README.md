@@ -77,15 +77,13 @@ NEXT_PUBLIC_POSTHOG_KEY=your_public_posthog_key
 
 ## 📈 PostHog Events Tracked
 
-| Event Name              | Description                       |
-| ----------------------- | --------------------------------- |
-| `game_started`          | When user starts the game         |
-| `card_selected`         | When a user clicks a card         |
-| `card_flipped`          | When a card is flipped            |
-| `card_opened_legendary` | When user reveals Legendary card  |
-| `card_opened_rare`      | When user reveals Rare card       |
-| `card_copied`           | When user copies their identity   |
-| `card_retry`            | When user resets to shuffle again |
+| Event Name      | Description                       |
+| --------------- | --------------------------------- |
+| `game_started`  | When user starts the game         |
+| `card_selected` | When a user clicks a card         |
+| `card_flipped`  | When a card is flipped            |
+| `card_copied`   | When user copies their identity   |
+| `card_retry`    | When user resets to shuffle again |
 
 ---
 
