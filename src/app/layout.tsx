@@ -9,8 +9,9 @@ import { PostHogProvider } from "@/components/PostHogProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "you.erkan.dev – Who Are You Today?",
-  description: "A daily identity card generator for chaos, comfort and vibes.",
+  title: "Who Are You Today? - you.erkan.dev",
+  description:
+    "Discover your daily magical identity through fantasy cards. Flip, reveal, and explore your mystical self!",
 };
 
 export default function RootLayout({
@@ -20,7 +21,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={cn(inter.className, "min-h-screen text-white")}>        
+      <body className={cn(inter.className, "min-h-screen text-white")}>
         <PostHogProvider>
           <PhraseStoreProvider>{children}</PhraseStoreProvider>
           <Toaster />
