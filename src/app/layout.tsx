@@ -4,6 +4,7 @@ import { Inter } from "next/font/google";
 import { cn } from "@/lib/utils";
 import { Toaster } from "@/components/ui/sonner";
 import { PhraseStoreProvider } from "@/components/phrase-provider";
+import { PostHogProvider } from "@/components/PostHogProvider";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -19,9 +20,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={cn(inter.className, "min-h-screen text-white")}>
-        <PhraseStoreProvider>{children}</PhraseStoreProvider>
-        <Toaster />
+      <body className={cn(inter.className, "min-h-screen text-white")}>        
+        <PostHogProvider>
+          <PhraseStoreProvider>{children}</PhraseStoreProvider>
+          <Toaster />
+        </PostHogProvider>
       </body>
     </html>
   );
